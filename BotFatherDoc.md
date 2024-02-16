@@ -8,8 +8,8 @@
 - Имя приложения: "CLN App"
 - Описание: "Приложение в Telegram для клиентов интернет-провайдера CLN: проверяйте баланс, получайте уведомления."
 - Изображение: 
-`https://rbychin.ddns.net/static/app_photo.jpg` 
-![enter image description here](https://rbychin.ddns.net/static/app_photo.jpg)
+  `https://rbychin.ddns.net/static/app_photo.jpg` 
+![enter image description here](https://rbychin.ddns.net/static/main_logo.jpeg)
 - GIF: `/empty`
 - URL приложения: `https://rbychin.ddns.net/`
 - Короткое имя приложения: clnApp
